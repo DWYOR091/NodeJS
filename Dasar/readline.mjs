@@ -1,4 +1,4 @@
-import { read } from "fs";
+//readline untuk menerimana input user biar interaktif
 import process from "process";
 
 // pakai callback
