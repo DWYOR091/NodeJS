@@ -9,7 +9,7 @@ const log = new Console({
     stderr: file
 })
 
-log.info("rifqi")
+log.info("rifqii")
 log.error("error")
 const person = {
     firstName: "Muhamad",
